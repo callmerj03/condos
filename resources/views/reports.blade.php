@@ -57,6 +57,9 @@
       background-color: #b02e0c;
       color:#FFFFFF!important;
     }
+    [data-aos][data-aos][data-aos-duration="1000"], body[data-aos-duration="1000"] [data-aos]  {
+        transition-duration: 500ms!important;
+      }
     </style>
 </head>
 
